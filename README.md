@@ -10,14 +10,6 @@
 
 ---
 
-## 🏆 GitHub Achievements:
-
-<div align="center">
-  <img width="800" height="180" src="https://github-profile-trophy.vercel.app/?username=KashishPundir&theme=onedark" style="border-radius: 10px; border: 2px solid #f39c12;">
-</div>
-
----
-
 ## 🚀 Languages & Tools:
 
 ### Programming Languages:
